@@ -1,7 +1,7 @@
 
 import {  FaFacebookF, FaTwitter } from 'react-icons/fa6'
 import './App.css'
-import Nav from './Components/nav'
+import Nav from './Components/Nav'
 import SectionFive from './Components/SectionFive'
 import SectionFour from './Components/SectionFour'
 import SectionOne from './Components/SectionOne'
